@@ -1,0 +1,14 @@
+div
+{
+    color: blue;
+}
+
+.about_me
+{
+    color: red;
+}
+
+.logout:hover
+{
+    border: black dotted 1px;
+}
